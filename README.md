@@ -1,6 +1,6 @@
 # Malchekik Remastered
 
-# https://jurrod.github.io/Malchekik-Remastered/
+# [www.website.com](https://jurrod.github.io/Malchekik-Remastered/)
 
 ### Jarrod Masarik
 * Pitt CS, 2024
