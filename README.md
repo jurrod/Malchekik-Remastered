@@ -1,5 +1,7 @@
 # Malchekik Remastered
 
+# https://jurrod.github.io/Malchekik-Remastered/
+
 ### Jarrod Masarik
 * Pitt CS, 2024
 * jem373@pitt.edu
